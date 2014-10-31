@@ -34,7 +34,7 @@ Features:
 *   Can see position of all Widgets
 *   3 extra widgets
 
-See more details and usages guide here http://codeboxr.com/product/cbdashboardmanager
+See more details and usages guide here http://codeboxr.com/product/dashboard-widget-manager-for-wordpress
 
 
 == Installation ==
